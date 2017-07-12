@@ -1,0 +1,35 @@
+body {
+    background-color: #C5D1CE;
+}
+
+.side-bar {
+    background-color: #F9FAFA;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 25%;
+    padding: 20px;
+}
+
+.profile-picture {
+    max-inline-size: 100%;
+    /* padding: 20px; */
+}
+
+.water-color {
+    background-color:#626867;
+}
+
+.oil-acrylic {
+    background-color: #6A5A62;
+}
+
+.sketches {
+    background-color: #9CA59C;
+}
+
+.wrapper {
+    margin-right: 25%;
+    width: 75%;
+}
